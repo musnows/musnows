@@ -2,6 +2,6 @@
 
 ### hello,world! 👋
 
-* 🎑I'm studying C/C++ in college and learning python by myself
-* ✨I will share my coding notes on [blog](https://ewait.gitee.io/)
-* 🐱‍🏍You can find my practice code on [gitee](https://gitee.com/ewait)
+* 🎑 I'm studying C/C++ in college and learning python by myself
+* ✨ I will share my coding notes on [blog](https://ewait.gitee.io/)
+* 🐱‍🏍 You can find my practice code on [gitee](https://gitee.com/ewait)
