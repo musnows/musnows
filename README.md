@@ -3,5 +3,5 @@
 ### hello,world! 👋
 
 * 🎑 I'm studying C/C++ in college and learning Python by myself
-* ✨ I will share my coding notes on [blog](https://ewait.gitee.io/)
-* 🐱‍ You can find my practice code on [gitee](https://gitee.com/ewait)
+* ✨ I will share my coding notes on [Blog](https://ewait.gitee.io/)
+* 🐱‍ You can find my practice code on [Gitee](https://gitee.com/ewait)
