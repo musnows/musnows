@@ -3,5 +3,5 @@
 ### Hello World! 👋
 
 * 🎑 I'm studying C/C++ in college and learning Python by myself
-* ✨ I will share my coding notes on [Blog](https://aewait.github.io/)
+* ✨ I will share my coding notes on [Blog](https://blog.outpost54.top/)
 * 🐱‍ You can find my practice code on [Gitee](https://gitee.com/ewait)
