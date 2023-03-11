@@ -1,5 +1,5 @@
 <div align="center">
-  <!--动态打字效果-->
+  <!-- 动态打字效果 -->
   <a href="https://blog.sunguoqi.com/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=printf(%22Hello%2C%20World!%22);慕雪祝您生活愉快!&center=true&size=26" alt="Typing SVG" />
   </a>
@@ -19,7 +19,14 @@
   
   <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=musnows"></br>
-    <img src="https://stats.justsong.cn/api/csdn?id=muxuen&theme=gruvbox_light"></br>
+    <!--<img src="https://stats.justsong.cn/api/csdn?id=muxuen&theme=gruvbox_light"></br>-->
     <!--<img src="https://github-readme-stats.vercel.app/api?username=musnows&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true">-->
+  </div>
+
+  <!-- 自动更新近期博客 -->
+  <div align="center">
+    <p>近期博客</p></br>
+    <!-- BLOG-POST-LIST:START -->
+    <!-- BLOG-POST-LIST:END -->
   </div>
 </div>
