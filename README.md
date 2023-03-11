@@ -26,6 +26,7 @@
 <a href="https://blog.musnow.top/"><img src="https://img.shields.io/badge/Hexo-博客-blue" /></a>&emsp;
 <a href="https://blog.csdn.net/muxuen?spm=1010.2135.3001.5343"><img src="https://img.shields.io/badge/CSDN-博客-c32136" /></a>&emsp;
 <a href="https://www.zhihu.com/people/musnows/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+<a href="https://gitee.com/musnow"><img src="https://img.shields.io/badge/Gitee-学习仓库-red" /></a>&emsp;
 <img src="https://visitor-badge.glitch.me/badge?page_id=musnows">
 
 
