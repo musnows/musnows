@@ -27,6 +27,11 @@
   <div align="center">
     <p>近期博客</p></br>
     <!-- BLOG-POST-LIST:START -->
-    <!-- BLOG-POST-LIST:END -->
+- [【js】用html+javascript静态页面实现伪重定向](https://blog.musnow.top/2023/03/10/tools/16%E4%BD%BF%E7%94%A8js%E5%AE%9E%E7%8E%B0%E9%87%8D%E5%AE%9A%E5%90%91/)
+- [【Python】pip下载使用国内镜像源](https://blog.musnow.top/2023/03/10/Python/11pip%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E9%95%9C%E5%83%8F%E6%BA%90/)
+- [【Linux】浏览器写代码！部署code-server远程vscode网页](https://blog.musnow.top/2023/03/09/docker/10code-server/)
+- [【Docker】限制已运行容器的Cpu和内存](https://blog.musnow.top/2023/03/06/docker/9docker%E9%99%90%E5%88%B6%E5%AE%B9%E5%99%A8Cpu%E5%86%85%E5%AD%98/)
+- [【Linux】修改linux下的时区和系统时间](https://blog.musnow.top/2023/03/04/Linux/36linux%E4%BF%AE%E6%94%B9%E6%97%B6%E5%8C%BA/)
+<!-- BLOG-POST-LIST:END -->
   </div>
 </div>
