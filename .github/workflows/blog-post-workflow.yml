@@ -17,4 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.musnow.top/atom.xml"
-          date: UTC+8:yy-mm-dd
+          date_format: UTC+8:yy-mm-dd
