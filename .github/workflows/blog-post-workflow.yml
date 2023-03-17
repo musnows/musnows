@@ -16,5 +16,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://musnows.github.io/atom.xml"
+          feed_list: "https://blog.musnow.top/atom.xml"
           date_format: yy-mm-dd
