@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【教程】netlify或vercel完全自动部署hexo](https://blog.musnow.top/2023/03/21/blog/%E4%BD%BF%E7%94%A8netlify%E5%92%8Cvercel%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2hexo/)
 - [【win】windows初次开机和使用的注意事项](https://blog.musnow.top/2023/03/19/tools/win/19win%E5%88%9D%E6%AC%A1%E5%BC%80%E6%9C%BA%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/)
 - [【win】windows磁盘管理分区,实现整数容量](https://blog.musnow.top/2023/03/19/tools/win/18win%E5%88%86%E7%9B%98%E5%B0%8Ftips/)
 - [【Linux】tcp协议 | 详解](https://blog.musnow.top/2023/03/17/Linux/37%E9%87%8D%E7%9C%8Btcp/)
 - [【Git】解决git status中文乱码问题](https://blog.musnow.top/2023/03/16/tools/git/18git%20status%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81/)
-- [【C++】将浮点数每一位拆分并输出](https://blog.musnow.top/2023/03/13/oj/%E5%B0%86%E6%B5%AE%E7%82%B9%E6%95%B0%E6%AF%8F%E4%B8%80%E4%BD%8D%E6%8B%86%E5%88%86%E8%BE%93%E5%87%BA/)
 <!-- BLOG-POST-LIST:END -->
