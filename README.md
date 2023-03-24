@@ -33,7 +33,7 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [【教程】netlify或vercel完全自动部署hexo](https://blog.musnow.top/2023/03/21/blog/%E4%BD%BF%E7%94%A8netlify%E5%92%8Cvercel%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2hexo/)
+- [【教程】netlify或vercel完全自动部署hexo](https://blog.musnow.top/2023/03/22/blog/%E4%BD%BF%E7%94%A8netlify%E5%92%8Cvercel%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2hexo/)
 - [【win】windows初次开机和使用的注意事项](https://blog.musnow.top/2023/03/19/tools/win/19win%E5%88%9D%E6%AC%A1%E5%BC%80%E6%9C%BA%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/)
 - [【win】windows磁盘管理分区,实现整数容量](https://blog.musnow.top/2023/03/19/tools/win/18win%E5%88%86%E7%9B%98%E5%B0%8Ftips/)
 - [【Linux】tcp协议 | 详解](https://blog.musnow.top/2023/03/17/Linux/37%E9%87%8D%E7%9C%8Btcp/)
