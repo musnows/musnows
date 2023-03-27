@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Python】CentOS安装Python3.10](https://blog.musnow.top/posts/847195816/)
 - [【Python】设置logging日志时间的时区](https://blog.musnow.top/posts/1349268248/)
 - [【教程】netlify或vercel完全自动部署hexo](https://blog.musnow.top/posts/3433631517/)
 - [【win】windows初次开机和使用的注意事项](https://blog.musnow.top/posts/1529306954/)
 - [【win】windows磁盘管理分区,实现整数容量](https://blog.musnow.top/posts/2962575673/)
-- [【Linux】tcp协议 | 详解](https://blog.musnow.top/posts/2651996865/)
 <!-- BLOG-POST-LIST:END -->
