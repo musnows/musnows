@@ -16,9 +16,9 @@
 ### Hello!
 
 * 🎑 Studying C/C++ in college, learning Python by myself
-* 😶‍🌫️ I'm sharing my coding notes on [blog](https://blog.musnow.top/)
+* 😶‍🌫️ I'm sharing my coding notes on [blog](https://blog.musnow.top/?utm_source=github)
 * 📕 在读大二学生，主攻C/C++，自学部分Python
-* 🎉 我会在 [博客](https://blog.musnow.top/) 上分享我的学习笔记
+* 🎉 我会在 [博客](https://blog.musnow.top/?utm_source=github) 上分享我的学习笔记
 
 
 ### Social Link
