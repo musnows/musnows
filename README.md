@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【C++】智能指针](https://blog.musnow.top/posts/1282431418/)
 - [【日志】又拍云CDN被恶意请求](https://blog.musnow.top/posts/1758576550/)
 - [【Python】CentOS安装Python3.10 | 转载](https://blog.musnow.top/posts/847195816/)
 - [【Python】设置logging日志时间的时区](https://blog.musnow.top/posts/1349268248/)
 - [【教程】netlify或vercel完全自动部署hexo](https://blog.musnow.top/posts/3433631517/)
-- [【win】windows初次开机和使用的注意事项](https://blog.musnow.top/posts/1529306954/)
 <!-- BLOG-POST-LIST:END -->
