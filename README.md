@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Mysql】基础命令操作](https://blog.musnow.top/posts/2109090510/)
+- [【Mysql】安装和基础环境配置](https://blog.musnow.top/posts/577382991/)
 - [【面经】230331模拟面试记录](https://blog.musnow.top/posts/3461978244/)
 - [【C++】智能指针](https://blog.musnow.top/posts/1282431418/)
 - [【日志】又拍云CDN被恶意请求](https://blog.musnow.top/posts/1758576550/)
-- [【Python】CentOS安装Python3.10 | 转载](https://blog.musnow.top/posts/847195816/)
-- [【Python】设置logging日志时间的时区](https://blog.musnow.top/posts/1349268248/)
 <!-- BLOG-POST-LIST:END -->
