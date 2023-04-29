@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【leetcode】151. 翻转字符串中的单词](https://blog.musnow.top/posts/4154393368/)
 - [【Python】将kook机器人和爱发电对接，实现vip自动化销售](https://blog.musnow.top/posts/2140431451/)
 - [【KOOK】阿狸机器人 | 使用文档](https://blog.musnow.top/posts/847195815/)
 - [【Mysql】C/C++代码操作数据库](https://blog.musnow.top/posts/2109090511/)
 - [【Mysql】基础命令操作](https://blog.musnow.top/posts/2109090510/)
-- [【Mysql】安装和基础环境配置](https://blog.musnow.top/posts/577382991/)
 <!-- BLOG-POST-LIST:END -->
