@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Sqlite3】maraidb和sqlite3部分命令操作区别](https://blog.musnow.top/posts/2259981507/)
 - [【C++】C++11中R字符串的作用](https://blog.musnow.top/posts/3258704981/)
 - [【leetcode】151. 翻转字符串中的单词](https://blog.musnow.top/posts/4154393368/)
 - [【Python】将kook机器人和爱发电对接，实现vip自动化销售](https://blog.musnow.top/posts/2140431451/)
 - [【KOOK】阿狸机器人 | 使用文档](https://blog.musnow.top/posts/847195815/)
-- [【Mysql】C/C++代码操作数据库](https://blog.musnow.top/posts/2109090511/)
 <!-- BLOG-POST-LIST:END -->
