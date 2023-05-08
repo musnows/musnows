@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Docker】deepin安装docker | 虚拟机](https://blog.musnow.top/posts/2069190154/)
+- [【VMware】ssh连接虚拟机linux](https://blog.musnow.top/posts/1211975221/)
+- [【Typora+Lsky】在deepin使用YGXB-net/lsky-upload上传图片](https://blog.musnow.top/posts/4106816943/)
+- [【Mysql】数据类型](https://blog.musnow.top/posts/3544156851/)
 - [【Sqlite3】maraidb和sqlite3部分命令操作区别](https://blog.musnow.top/posts/2259981507/)
-- [【C++】C++11中R字符串的作用](https://blog.musnow.top/posts/3258704981/)
-- [【leetcode】151. 翻转字符串中的单词](https://blog.musnow.top/posts/4154393368/)
-- [【Python】将kook机器人和爱发电对接，实现vip自动化销售](https://blog.musnow.top/posts/2140431451/)
-- [【KOOK】阿狸机器人 | 使用文档](https://blog.musnow.top/posts/847195815/)
 <!-- BLOG-POST-LIST:END -->
