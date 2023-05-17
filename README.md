@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [【Docker】deepin安装docker | 虚拟机](https://blog.musnow.top/posts/2069190154/)
+- [【计组】计算机组成原理第三版 &lpar;唐朔飞&rpar; | 1-5](https://blog.musnow.top/posts/1438137223/)
+- [【Git】解决kex_exchange_identification错误](https://blog.musnow.top/posts/1015332822/)
+- [【Linux】buff cache的真相](https://blog.musnow.top/posts/2377102236/)
+- [【Docker】deepin/centos安装docker](https://blog.musnow.top/posts/2069190154/)
 - [【VMware】ssh连接虚拟机linux](https://blog.musnow.top/posts/1211975221/)
-- [【Typora+Lsky】在deepin使用YGXB-net/lsky-upload上传图片](https://blog.musnow.top/posts/4106816943/)
-- [【Mysql】数据类型](https://blog.musnow.top/posts/3544156851/)
-- [【Sqlite3】maraidb和sqlite3部分命令操作区别](https://blog.musnow.top/posts/2259981507/)
 <!-- BLOG-POST-LIST:END -->
