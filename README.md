@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [【计组】计算机组成原理第三版 &lpar;唐朔飞&rpar; | 1-5](https://blog.musnow.top/posts/1438137223/)
+- [【npm】error:03000086:digital envelope routines::initialization error](https://blog.musnow.top/posts/2800051647/)
+- [【leetcode】006 N字形变换](https://blog.musnow.top/posts/3624744626/)
 - [【Git】解决kex_exchange_identification错误](https://blog.musnow.top/posts/1015332822/)
 - [【Linux】buff cache的真相](https://blog.musnow.top/posts/2377102236/)
 - [【Docker】deepin/centos安装docker](https://blog.musnow.top/posts/2069190154/)
-- [【VMware】ssh连接虚拟机linux](https://blog.musnow.top/posts/1211975221/)
 <!-- BLOG-POST-LIST:END -->
