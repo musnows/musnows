@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Python】对async与await的理解](https://blog.musnow.top/posts/1092148697/)
 - [【npm】error:03000086:digital envelope routines::initialization error](https://blog.musnow.top/posts/2800051647/)
 - [【leetcode】006 N字形变换](https://blog.musnow.top/posts/3624744626/)
 - [【Git】解决kex_exchange_identification错误](https://blog.musnow.top/posts/1015332822/)
 - [【Linux】buff cache的真相](https://blog.musnow.top/posts/2377102236/)
-- [【Docker】deepin/centos安装docker](https://blog.musnow.top/posts/2069190154/)
 <!-- BLOG-POST-LIST:END -->
