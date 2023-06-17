@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【KOOK】linkguard机器人配置个性化撤回提醒](https://blog.musnow.top/posts/1370917284/)
 - [【VMware】VMware安装CentOS8-Stream虚拟机](https://blog.musnow.top/posts/3903366745/)
 - [【博客】折腾记录](https://blog.musnow.top/posts/1486215141/)
 - [【Python】对async与await的理解](https://blog.musnow.top/posts/1092148697/)
 - [【npm】error:03000086:digital envelope routines::initialization error](https://blog.musnow.top/posts/2800051647/)
-- [【leetcode】006 N字形变换](https://blog.musnow.top/posts/3624744626/)
 <!-- BLOG-POST-LIST:END -->
