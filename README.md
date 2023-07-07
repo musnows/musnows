@@ -37,5 +37,5 @@
 - [【Python】pycharm配置代码字体+中文字体](https://blog.musnow.top/posts/232801310/)
 - [【Git】解决push时遇到的RPC 413和520错误](https://blog.musnow.top/posts/89600062/)
 - [【KOOK】linkguard机器人配置个性化撤回提醒](https://blog.musnow.top/posts/1370917284/)
-- [【VMware】VMware安装CentOS8-Stream虚拟机](https://blog.musnow.top/posts/3903366745/)
+- [【工具】复制网页为markdown的浏览器插件](https://blog.musnow.top/posts/4128600186/)
 <!-- BLOG-POST-LIST:END -->
