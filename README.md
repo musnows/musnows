@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [【Python】记录pymysql.err.InterfaceError: &lpar;0, &#39;&rpar; 的“解决办法”](https://blog.musnow.top/posts/520209670/)
-- [【Python】pycharm配置代码字体+中文字体](https://blog.musnow.top/posts/232801310/)
-- [【Git】解决push时遇到的RPC 413和520错误](https://blog.musnow.top/posts/89600062/)
-- [【KOOK】linkguard机器人配置个性化撤回提醒](https://blog.musnow.top/posts/1370917284/)
-- [【工具】复制网页为markdown的浏览器插件](https://blog.musnow.top/posts/4128600186/)
+- [【docker】如何本地构建镜像并发布到dockerhub](https://blog.musnow.top/posts/1414052231/)
+- [【Python】deepin下安装包找不到Python.h的解决办法](https://blog.musnow.top/posts/824840011/)
+- [【Mysql】windows11安装mysql](https://blog.musnow.top/posts/1951514193/)
+- [【deepin】deepin安装新字体](https://blog.musnow.top/posts/1504301137/)
+- [【VMware】VM中虚拟机设置的处理器数量和每个处理器内核数量到底是什么？](https://blog.musnow.top/posts/3252027724/)
 <!-- BLOG-POST-LIST:END -->
