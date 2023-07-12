@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Python】调用飞书API获取excel表格中数据](https://blog.musnow.top/posts/3588260369/)
 - [【docker】如何本地构建镜像并发布到dockerhub](https://blog.musnow.top/posts/1414052231/)
 - [【Python】deepin下安装包找不到Python.h的解决办法](https://blog.musnow.top/posts/824840011/)
 - [【Mysql】windows11安装mysql](https://blog.musnow.top/posts/1951514193/)
 - [【deepin】deepin安装新字体](https://blog.musnow.top/posts/1504301137/)
-- [【VMware】VM中虚拟机设置的处理器数量和每个处理器内核数量到底是什么？](https://blog.musnow.top/posts/3252027724/)
 <!-- BLOG-POST-LIST:END -->
