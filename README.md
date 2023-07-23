@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Mysql】sql字段约束](https://blog.musnow.top/posts/4138950838/)
 - [【Python】调用飞书API获取excel表格中数据](https://blog.musnow.top/posts/3588260369/)
 - [【docker】如何本地构建镜像并发布到dockerhub](https://blog.musnow.top/posts/1414052231/)
 - [【Python】deepin下安装包找不到Python.h的解决办法](https://blog.musnow.top/posts/824840011/)
 - [【Mysql】windows11安装mysql](https://blog.musnow.top/posts/1951514193/)
-- [【deepin】deepin安装新字体](https://blog.musnow.top/posts/1504301137/)
 <!-- BLOG-POST-LIST:END -->
