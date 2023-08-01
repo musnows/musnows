@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【C语言】数组竟然还可以这样调用？慕雪学艺不精了！](https://blog.musnow.top/posts/842609448/)
 - [【工具】centos7系统下使用vimplus配置vim的C++环境](https://blog.musnow.top/posts/274956107/)
 - [【网络】IP网络层和数据链路层](https://blog.musnow.top/posts/3482559497/)
 - [【Mysql】sql字段约束](https://blog.musnow.top/posts/4138950838/)
 - [【Python】调用飞书API获取excel表格中数据](https://blog.musnow.top/posts/3588260369/)
-- [【docker】如何本地构建镜像并发布到dockerhub](https://blog.musnow.top/posts/1414052231/)
 <!-- BLOG-POST-LIST:END -->
