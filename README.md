@@ -34,7 +34,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [【C++】继承多态详解](https://blog.musnow.top/posts/3933786088/)
-- [【Mysql】deepin安装mysql的cpp开发包](https://blog.musnow.top/posts/971003431/)
+- [【MySQL】deepin安装mysql的cpp开发包](https://blog.musnow.top/posts/971003431/)
 - [【数据备份】谈谈如何进行有效数据备份，3+2+1](https://blog.musnow.top/posts/3543423459/)
 - [【C语言】数组竟然还可以这样调用？慕雪学艺不精了！](https://blog.musnow.top/posts/842609448/)
 - [【工具】centos7系统下使用vimplus配置vim的C++环境](https://blog.musnow.top/posts/274956107/)
