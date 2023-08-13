@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【C++】使用CPP+STMP发送邮件](https://blog.musnow.top/posts/4118547036/)
+- [【项目】视频点播项目的记录](https://blog.musnow.top/posts/4231483510/)
 - [【C++】继承多态详解](https://blog.musnow.top/posts/3933786088/)
 - [【MySQL】deepin安装mysql的cpp开发包](https://blog.musnow.top/posts/971003431/)
 - [【数据备份】谈谈如何进行有效数据备份，3+2+1](https://blog.musnow.top/posts/3543423459/)
-- [【C语言】数组竟然还可以这样调用？慕雪学艺不精了！](https://blog.musnow.top/posts/842609448/)
-- [【工具】centos7系统下使用vimplus配置vim的C++环境](https://blog.musnow.top/posts/274956107/)
 <!-- BLOG-POST-LIST:END -->
