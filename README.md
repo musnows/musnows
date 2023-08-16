@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Python】selenium遇到ActionChains.move_to_element&lpar;&rpar; takes 2 positional arguments but 4 were given报错](https://blog.musnow.top/posts/2142561511/)
+- [【Python】自动化测试selenium](https://blog.musnow.top/posts/192617188/)
 - [【C++】使用CPP+STMP发送邮件](https://blog.musnow.top/posts/4118547036/)
 - [【项目】视频点播项目的记录](https://blog.musnow.top/posts/4231483510/)
 - [【C++】继承多态详解](https://blog.musnow.top/posts/3933786088/)
-- [【MySQL】deepin安装mysql的cpp开发包](https://blog.musnow.top/posts/971003431/)
-- [【数据备份】谈谈如何进行有效数据备份，3+2+1](https://blog.musnow.top/posts/3543423459/)
 <!-- BLOG-POST-LIST:END -->
