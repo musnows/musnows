@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【C++11】future和async等](https://blog.musnow.top/posts/2885143113/)
 - [【Python】元组/列表/集合的区别](https://blog.musnow.top/posts/1142930252/)
 - [【Python】selenium遇到ActionChains.move_to_element&lpar;&rpar; takes 2 positional arguments but 4 were given报错](https://blog.musnow.top/posts/2142561511/)
 - [【Python】自动化测试selenium](https://blog.musnow.top/posts/192617188/)
 - [【C++】使用CPP+STMP发送邮件](https://blog.musnow.top/posts/4118547036/)
-- [【项目】视频点播项目的记录](https://blog.musnow.top/posts/4231483510/)
 <!-- BLOG-POST-LIST:END -->
