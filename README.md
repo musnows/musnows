@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【技术】CDN/PCDN/SDN详解](https://blog.musnow.top/posts/292924834/)
+- [【API】API的各种分类详解](https://blog.musnow.top/posts/73383828/)
+- [【Linux】高级IO和多路转接 | select/poll/epoll](https://blog.musnow.top/posts/3390191280/)
 - [【C++】构造函数和初始化列表的性能差距](https://blog.musnow.top/posts/2628258650/)
 - [【牛客网】BM3链表中的节点每k个一组翻转](https://blog.musnow.top/posts/3391123821/)
-- [【C++】早绑定、析构与多态 | 一道关于多态的选择题记录](https://blog.musnow.top/posts/2254346194/)
-- [【网络】IP网络层和数据链路层](https://blog.musnow.top/posts/3482559497/)
-- [【牛客网】BM001：翻转链表](https://blog.musnow.top/posts/3018206681/)
 <!-- BLOG-POST-LIST:END -->
