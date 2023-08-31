@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Linux】centos8安装bison3.8](https://blog.musnow.top/posts/1067381808/)
+- [【Linux】centos8安装cmake3.27.4](https://blog.musnow.top/posts/343476194/)
 - [【C++】C++14的那些新特性](https://blog.musnow.top/posts/1184922698/)
 - [【leetcode】1137. 第 N 个泰波那契数](https://blog.musnow.top/posts/563921472/)
 - [【技术】CDN/PCDN/SDN详解](https://blog.musnow.top/posts/292924834/)
-- [【API】API的各种分类详解](https://blog.musnow.top/posts/73383828/)
-- [【Linux】高级IO和多路转接 | select/poll/epoll](https://blog.musnow.top/posts/3390191280/)
 <!-- BLOG-POST-LIST:END -->
