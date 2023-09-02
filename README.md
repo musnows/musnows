@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Linux】root和子用户都能执行的命令，sudo无法执行（已解决）](https://blog.musnow.top/posts/2473452644/)
 - [【win】Windows下MSI Afterburner如何让其不在某个软件中显示帧数](https://blog.musnow.top/posts/4160666395/)
 - [【win】Windows下C盘里面的WindowsApps文件夹权限怎么获取](https://blog.musnow.top/posts/3712817486/)
 - [【Linux】centos8安装bison3.8](https://blog.musnow.top/posts/1067381808/)
 - [【Linux】centos8安装cmake3.27.4](https://blog.musnow.top/posts/343476194/)
-- [【C++】C++14的那些新特性](https://blog.musnow.top/posts/1184922698/)
 <!-- BLOG-POST-LIST:END -->
