@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【面经】230913上海零念科技CPP实习生](https://blog.musnow.top/posts/2719794733/)
 - [【MySQL】事务](https://blog.musnow.top/posts/2200233148/)
 - [【MySQL】索引](https://blog.musnow.top/posts/3474107655/)
 - [【MySQL】复合查询 | 内外链接](https://blog.musnow.top/posts/2529084145/)
 - [【Linux】root和子用户都能执行的命令，sudo无法执行（已解决）](https://blog.musnow.top/posts/2473452644/)
-- [【win】Windows下MSI Afterburner如何让其不在某个软件中显示帧数](https://blog.musnow.top/posts/4160666395/)
 <!-- BLOG-POST-LIST:END -->
