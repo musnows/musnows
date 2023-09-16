@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【面经】230915上海戎磐网络科技C/LINUX实习生](https://blog.musnow.top/posts/2553205100/)
+- [【MySQL】字节跳动MySQL连环40问](https://blog.musnow.top/posts/3873856211/)
 - [【面经】230913上海零念科技CPP实习生](https://blog.musnow.top/posts/2719794733/)
 - [【MySQL】事务](https://blog.musnow.top/posts/2200233148/)
 - [【MySQL】索引](https://blog.musnow.top/posts/3474107655/)
-- [【MySQL】复合查询 | 内外链接](https://blog.musnow.top/posts/2529084145/)
-- [【Linux】root和子用户都能执行的命令，sudo无法执行（已解决）](https://blog.musnow.top/posts/2473452644/)
 <!-- BLOG-POST-LIST:END -->
