@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【微机】DOSBox在windows上的安装和masm的配置](https://blog.musnow.top/posts/2839269095/)
 - [【Linux】ubuntu/centos8安装zsh终端](https://blog.musnow.top/posts/2565866661/)
 - [【虚拟机】WIN11的WSL安装CentOS8Stream虚拟机](https://blog.musnow.top/posts/4065446782/)
 - [【七牛云】artalk表情遇到跨域访问问题](https://blog.musnow.top/posts/489538601/)
 - [【Linux】valgrind检测程序内存泄漏](https://blog.musnow.top/posts/565285228/)
-- [【C++】C++17的那些新特性](https://blog.musnow.top/posts/3858168547/)
 <!-- BLOG-POST-LIST:END -->
