@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【C++】空对象指针也能访问成员函数？](https://blog.musnow.top/posts/3858168549/)
 - [【面经】C++面筋记录 &lpar;一&rpar; 231021](https://blog.musnow.top/posts/721187015/)
 - [【Linux】wsl安装的ubuntu不支持POSIX消息队列 | 已解决](https://blog.musnow.top/posts/4006913293/)
 - [【微机】DOSBox在windows上的安装和masm的配置](https://blog.musnow.top/posts/2839269095/)
 - [【Linux】ubuntu/centos8安装zsh终端](https://blog.musnow.top/posts/2565866661/)
-- [【虚拟机】WIN11的WSL安装CentOS8Stream虚拟机](https://blog.musnow.top/posts/4065446782/)
 <!-- BLOG-POST-LIST:END -->
