@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Nginx】NGINX 配置避免 IP 访问时证书暴露域名](https://blog.musnow.top/posts/3528013149/)
+- [【Nginx】nginx通过配置文件阻止海外ip访问](https://blog.musnow.top/posts/2029711168/)
+- [【图床】删除对象存储桶前一定要检查！](https://blog.musnow.top/posts/3595872827/)
 - [【博客】hexo配置sitemap和百度|bing|谷歌收录](https://blog.musnow.top/posts/3595872826/)
 - [【Linux】lcov2.0安装和perl修改镜像源](https://blog.musnow.top/posts/1274282021/)
-- [【C++】空对象指针也能访问成员函数？](https://blog.musnow.top/posts/3858168549/)
-- [【面经】C++面筋记录 &lpar;一&rpar; 231021](https://blog.musnow.top/posts/721187015/)
-- [【Linux】wsl安装的ubuntu不支持POSIX消息队列 | 已解决](https://blog.musnow.top/posts/4006913293/)
 <!-- BLOG-POST-LIST:END -->
