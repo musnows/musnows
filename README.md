@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Linux】gcc中__builtin_expect的作用](https://blog.musnow.top/posts/3259961914/)
+- [【Linux】Ubuntu下快速切换gcc版本](https://blog.musnow.top/posts/1907126934/)
 - [【Python】Python实现文件分片加密和上传（未实现）](https://blog.musnow.top/posts/621478472/)
 - [【Python】Python分片计算文件md5](https://blog.musnow.top/posts/1918073551/)
 - [【图床】通过Cloudflare的自定义主机名服务代理图床域名](https://blog.musnow.top/posts/923376033/)
-- [【WSL】解决&#39;wsl：检测到localhost代理配置，但未镜像到WSL&#39;问题](https://blog.musnow.top/posts/3693584344/)
-- [【nginx】nginx通过配置文件允许uptimerobot的请求](https://blog.musnow.top/posts/1547739098/)
 <!-- BLOG-POST-LIST:END -->
