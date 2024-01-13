@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【C++】std::chrono::duration的含义和用法](https://blog.musnow.top/posts/2910129003/)
+- [【博客】个人独立博客站点在写博客的时候应该注意什么？](https://blog.musnow.top/posts/2118926128/)
 - [【2024】新年快乐！](https://blog.musnow.top/posts/2404659746/)
 - [【Hexo】使用cloudflare pages自动化部署hexo](https://blog.musnow.top/posts/1673796161/)
 - [【Hexo】hexo-butterfly主题添加非主站提示](https://blog.musnow.top/posts/3865345902/)
-- [【网络】P2P打洞原理](https://blog.musnow.top/posts/725561575/)
-- [【Linux】gcc中__builtin_expect的作用](https://blog.musnow.top/posts/3259961914/)
 <!-- BLOG-POST-LIST:END -->
