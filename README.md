@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Python】valorant国服和港服文件差距](https://blog.musnow.top/posts/87392930/)
 - [【win】windows必装软件汇总](https://blog.musnow.top/posts/3861578416/)
 - [【Hexo】hexo-butterfly主题添加装备展示页面](https://blog.musnow.top/posts/2383339565/)
 - [【C++】std::chrono::duration的含义和用法](https://blog.musnow.top/posts/2910129003/)
 - [【博客】个人独立博客站点在写博客的时候应该注意什么？](https://blog.musnow.top/posts/2118926128/)
-- [【2024】新年快乐！](https://blog.musnow.top/posts/2404659746/)
 <!-- BLOG-POST-LIST:END -->
