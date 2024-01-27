@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Linux】ubuntu安装google gtest框架](https://blog.musnow.top/posts/852447913/)
+- [【Linux】wsl2安装ubuntu并移动安装位置](https://blog.musnow.top/posts/3613882502/)
 - [【vscode】vscode paste image插件设置](https://blog.musnow.top/posts/4210795894/)
 - [【win】vscode无法使用ctrl+shift+p快捷键的解决方案](https://blog.musnow.top/posts/4138872091/)
 - [【Python】valorant国服和港服文件差距](https://blog.musnow.top/posts/87392930/)
-- [【win】windows必装软件汇总](https://blog.musnow.top/posts/3861578416/)
-- [【Hexo】hexo-butterfly主题添加装备展示页面](https://blog.musnow.top/posts/2383339565/)
 <!-- BLOG-POST-LIST:END -->
