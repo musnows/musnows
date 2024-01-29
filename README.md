@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【win】edge更换chrome浏览器](https://blog.musnow.top/posts/1864371357/)
 - [【C++】Google Gtest测试框架的使用](https://blog.musnow.top/posts/3098116292/)
 - [【Linux】ubuntu安装google gtest框架](https://blog.musnow.top/posts/852447913/)
 - [【Linux】wsl2安装ubuntu并移动安装位置](https://blog.musnow.top/posts/3613882502/)
 - [【vscode】vscode paste image插件设置](https://blog.musnow.top/posts/4210795894/)
-- [【win】vscode无法使用ctrl+shift+p快捷键的解决方案](https://blog.musnow.top/posts/4138872091/)
 <!-- BLOG-POST-LIST:END -->
