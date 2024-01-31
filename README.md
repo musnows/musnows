@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【MySQL】内置函数](https://blog.musnow.top/posts/4252514363/)
+- [【MySQL】用户管理](https://blog.musnow.top/posts/1572064315/)
 - [【解决】WSL2中安装Cuda遇到/usr/lib/wsl/lib/libcuda.so.1 is not a symbolic link](https://blog.musnow.top/posts/2859840121/)
 - [【SQL】过程化SQL](https://blog.musnow.top/posts/3614589784/)
 - [【win】edge更换chrome浏览器](https://blog.musnow.top/posts/1864371357/)
-- [【C++】Google Gtest测试框架的使用](https://blog.musnow.top/posts/3098116292/)
-- [【Linux】ubuntu安装google gtest框架](https://blog.musnow.top/posts/852447913/)
 <!-- BLOG-POST-LIST:END -->
