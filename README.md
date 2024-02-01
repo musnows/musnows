@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Artalk】可信域名未配置导致的跨域访问问题](https://blog.musnow.top/posts/1277415323/)
 - [【MySQL】内置函数](https://blog.musnow.top/posts/4252514363/)
 - [【MySQL】用户管理](https://blog.musnow.top/posts/1572064315/)
 - [【解决】WSL2中安装Cuda遇到/usr/lib/wsl/lib/libcuda.so.1 is not a symbolic link](https://blog.musnow.top/posts/2859840121/)
 - [【SQL】过程化SQL](https://blog.musnow.top/posts/3614589784/)
-- [【win】edge更换chrome浏览器](https://blog.musnow.top/posts/1864371357/)
 <!-- BLOG-POST-LIST:END -->
