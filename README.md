@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【sqlite3】MySQL8转sqlite3需要对sql做的一些处理](https://blog.musnow.top/posts/2778694447/)
 - [【win】使用分区助手扩容C盘](https://blog.musnow.top/posts/3746722946/)
 - [【Artalk】可信域名未配置导致的跨域访问问题](https://blog.musnow.top/posts/1277415323/)
 - [【MySQL】内置函数](https://blog.musnow.top/posts/4252514363/)
 - [【MySQL】用户管理](https://blog.musnow.top/posts/1572064315/)
-- [【解决】WSL2中安装Cuda遇到/usr/lib/wsl/lib/libcuda.so.1 is not a symbolic link](https://blog.musnow.top/posts/2859840121/)
 <!-- BLOG-POST-LIST:END -->
