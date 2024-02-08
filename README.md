@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Docker】gitea的ssh容器直通](https://blog.musnow.top/posts/1063684344/)
+- [【WSL】wsl中ubuntu无法通过useradd添加用户](https://blog.musnow.top/posts/803882566/)
 - [【sqlite3】MySQL8转sqlite3需要对sql做的一些处理](https://blog.musnow.top/posts/2778694447/)
 - [【win】使用分区助手扩容C盘](https://blog.musnow.top/posts/3746722946/)
 - [【Artalk】可信域名未配置导致的跨域访问问题](https://blog.musnow.top/posts/1277415323/)
-- [【MySQL】内置函数](https://blog.musnow.top/posts/4252514363/)
-- [【MySQL】用户管理](https://blog.musnow.top/posts/1572064315/)
 <!-- BLOG-POST-LIST:END -->
