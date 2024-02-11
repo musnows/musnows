@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Redis】基本命令学习（未完成）](https://blog.musnow.top/posts/3677820204/)
+- [【Redis】Ubuntu22.04安装Redis](https://blog.musnow.top/posts/269089114/)
+- [【vscode】远程主机可能不符合glibc和libstdc++ vscode服务器的先决条件](https://blog.musnow.top/posts/1712214675/)
+- [【Redis】初步认识Redis和分布式系统（未完成）](https://blog.musnow.top/posts/996575798/)
 - [【Docker】gitea的ssh容器直通](https://blog.musnow.top/posts/1063684344/)
-- [【WSL】wsl中ubuntu无法通过useradd添加用户](https://blog.musnow.top/posts/803882566/)
-- [【sqlite3】MySQL8转sqlite3需要对sql做的一些处理](https://blog.musnow.top/posts/2778694447/)
-- [【win】使用分区助手扩容C盘](https://blog.musnow.top/posts/3746722946/)
-- [【Artalk】可信域名未配置导致的跨域访问问题](https://blog.musnow.top/posts/1277415323/)
 <!-- BLOG-POST-LIST:END -->
