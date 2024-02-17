@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [【Redis】基本命令学习（未完成）](https://blog.musnow.top/posts/3677820204/)
-- [【Redis】Ubuntu22.04安装Redis](https://blog.musnow.top/posts/269089114/)
+- [【Redis】04.变量类型（未完成）](https://blog.musnow.top/posts/2729830801/)
+- [【Redis】03.基本命令学习](https://blog.musnow.top/posts/3677820204/)
+- [【Redis】02.Ubuntu22.04安装Redis](https://blog.musnow.top/posts/269089114/)
 - [【vscode】远程主机可能不符合glibc和libstdc++ vscode服务器的先决条件](https://blog.musnow.top/posts/1712214675/)
-- [【Redis】初步认识Redis和分布式系统](https://blog.musnow.top/posts/996575798/)
-- [【Docker】gitea的ssh容器直通](https://blog.musnow.top/posts/1063684344/)
+- [【Redis】01.初步认识Redis和分布式系统](https://blog.musnow.top/posts/996575798/)
 <!-- BLOG-POST-LIST:END -->
