@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [【项目】高并发内存池项目的学习](https://blog.musnow.top/posts/4231483511/)
+- [【算法】KMP算法](https://blog.musnow.top/posts/1835761968/)
+- [【Linux】Linux64位环境下编译32位报错的解决办法](https://blog.musnow.top/posts/3573352712/)
+- [【项目】高并发内存池项目的学习（未完成）](https://blog.musnow.top/posts/4231483511/)
 - [【Redis】04.变量类型（未完成）](https://blog.musnow.top/posts/2729830801/)
 - [【Redis】03.基本命令学习](https://blog.musnow.top/posts/3677820204/)
-- [【Redis】02.Ubuntu22.04安装Redis](https://blog.musnow.top/posts/269089114/)
-- [【vscode】远程主机可能不符合glibc和libstdc++ vscode服务器的先决条件](https://blog.musnow.top/posts/1712214675/)
 <!-- BLOG-POST-LIST:END -->
