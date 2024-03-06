@@ -35,7 +35,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [【算法】KMP算法](https://blog.musnow.top/posts/1835761968/)
 - [【Linux】Linux64位环境下编译32位报错的解决办法](https://blog.musnow.top/posts/3573352712/)
-- [【项目】高并发内存池项目的学习（未完成）](https://blog.musnow.top/posts/4231483511/)
+- [【项目】高并发内存池项目的学习](https://blog.musnow.top/posts/4231483511/)
 - [【Redis】04.变量类型（未完成）](https://blog.musnow.top/posts/2729830801/)
 - [【Redis】03.基本命令学习](https://blog.musnow.top/posts/3677820204/)
 <!-- BLOG-POST-LIST:END -->
