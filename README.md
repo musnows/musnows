@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【算法】滑动窗口思想解决数组OJ题目](https://blog.musnow.top/posts/19524588/)
 - [【leetcode】16.最接近的三数之和](https://blog.musnow.top/posts/4003189051/)
-- [文章标题](https://blog.musnow.top/posts/62868007/)
+- [【leetcode】11.盛水最多的容器](https://blog.musnow.top/posts/62868007/)
 - [【面试】C++三个线程交替打印1到100](https://blog.musnow.top/posts/235113945/)
 - [【leetcode】146LRU缓存](https://blog.musnow.top/posts/1621367479/)
-- [【算法】KMP算法](https://blog.musnow.top/posts/1835761968/)
 <!-- BLOG-POST-LIST:END -->
