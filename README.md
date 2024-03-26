@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【leetcode】33.搜索旋转排序数组](https://blog.musnow.top/posts/2415384769/)
+- [【leetcode】895最大频率栈](https://blog.musnow.top/posts/1873646973/)
+- [【leetcode】540.有序数组中的单一元素](https://blog.musnow.top/posts/3000154357/)
 - [【算法】回溯算法](https://blog.musnow.top/posts/1548282049/)
 - [【leetcode】哈希OJ题，383赎金信/202快乐数/242有效的字母异位词](https://blog.musnow.top/posts/4214339491/)
-- [【C语言】带你用偷懒的方式刷爆二叉树OJ题](https://blog.musnow.top/posts/4165981723/)
-- [【leetcode】239滑动窗口最大值](https://blog.musnow.top/posts/2402466745/)
-- [【leetcode】150.逆波兰表达式求值，以及前缀中缀后缀的相互转换](https://blog.musnow.top/posts/3211822811/)
 <!-- BLOG-POST-LIST:END -->
