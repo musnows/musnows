@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【算法】贪心算法](https://blog.musnow.top/posts/3488338229/)
+- [【win】windows11让蓝牙耳机不进入通话模式](https://blog.musnow.top/posts/137069193/)
 - [【leetcode】295.数据流的中位数](https://blog.musnow.top/posts/196461022/)
 - [【C++】布隆过滤器（海量数据处理）](https://blog.musnow.top/posts/3245288951/)
 - [【leetcode】233.数字1的个数](https://blog.musnow.top/posts/2123053741/)
-- [【leetcode】53.最大子数组和](https://blog.musnow.top/posts/4261184242/)
-- [【面试】浏览器输入URL到出现网页的全过程](https://blog.musnow.top/posts/2270595544/)
 <!-- BLOG-POST-LIST:END -->
