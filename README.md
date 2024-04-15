@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【leetcode】2两数相加和989数组数字的相加问题](https://blog.musnow.top/posts/1455984707/)
 - [【网络】QUIC协议和HTTP3](https://blog.musnow.top/posts/2259793534/)
 - [【算法】贪心算法](https://blog.musnow.top/posts/3488338229/)
 - [【win】windows11让蓝牙耳机不进入通话模式](https://blog.musnow.top/posts/137069193/)
 - [【leetcode】295.数据流的中位数](https://blog.musnow.top/posts/196461022/)
-- [【C++】布隆过滤器（海量数据处理）](https://blog.musnow.top/posts/3245288951/)
 <!-- BLOG-POST-LIST:END -->
