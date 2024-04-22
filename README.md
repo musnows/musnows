@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【leetcode】62不同路径和63不同路径2](https://blog.musnow.top/posts/4112588292/)
 - [【C语言】static和extern的作用](https://blog.musnow.top/posts/3198614716/)
 - [【leetcode】23.合并K个升序链表](https://blog.musnow.top/posts/788614935/)
 - [【leetcode】2两数相加和989数组数字的相加问题](https://blog.musnow.top/posts/1455984707/)
 - [【网络】QUIC协议和HTTP3](https://blog.musnow.top/posts/2259793534/)
-- [【算法】贪心算法](https://blog.musnow.top/posts/3488338229/)
 <!-- BLOG-POST-LIST:END -->
