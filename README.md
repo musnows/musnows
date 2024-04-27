@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【leetcode】95.不同的二叉搜索树2](https://blog.musnow.top/posts/2470995449/)
+- [【leetcode】96.不同的二叉搜索树](https://blog.musnow.top/posts/3165124961/)
+- [【Linux】如何用一条命令终止某个后台进程？](https://blog.musnow.top/posts/656037608/)
 - [【leetcode】62不同路径和63不同路径2](https://blog.musnow.top/posts/4112588292/)
 - [【C语言】static和extern的作用](https://blog.musnow.top/posts/3198614716/)
-- [【leetcode】23.合并K个升序链表](https://blog.musnow.top/posts/788614935/)
-- [【leetcode】2两数相加和989数组数字的相加问题](https://blog.musnow.top/posts/1455984707/)
-- [【网络】QUIC协议和HTTP3](https://blog.musnow.top/posts/2259793534/)
 <!-- BLOG-POST-LIST:END -->
