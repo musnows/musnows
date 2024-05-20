@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【建站】使用mrdoc和1panel的时候如何添加bing站长验证](https://blog.musnow.top/posts/3781449179/)
 - [【leetcode】121.买卖股票的最佳时机](https://blog.musnow.top/posts/3174951422/)
 - [【leetcode】95.不同的二叉搜索树2](https://blog.musnow.top/posts/2470995449/)
 - [【leetcode】96.不同的二叉搜索树](https://blog.musnow.top/posts/3165124961/)
 - [【Linux】如何用一条命令终止某个后台进程？](https://blog.musnow.top/posts/656037608/)
-- [【leetcode】62不同路径和63不同路径2](https://blog.musnow.top/posts/4112588292/)
 <!-- BLOG-POST-LIST:END -->
