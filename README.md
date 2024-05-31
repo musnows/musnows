@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【leetcode】674.最长连续递增序列](https://blog.musnow.top/posts/3365284395/)
+- [【leetcode】300.最长递增子序列](https://blog.musnow.top/posts/3118298969/)
+- [【leetcode】5.最长回文子串](https://blog.musnow.top/posts/1161861455/)
 - [【leetcode】计算器问题汇总](https://blog.musnow.top/posts/1512949254/)
 - [【docker】使用docker-compose的时候如何更新镜像版本](https://blog.musnow.top/posts/2589631185/)
-- [【win】obsidian快速打开某个仓库的办法](https://blog.musnow.top/posts/1331378393/)
-- [【建站】使用mrdoc和1panel的时候如何添加bing站长验证](https://blog.musnow.top/posts/3781449179/)
-- [【leetcode】121.买卖股票的最佳时机](https://blog.musnow.top/posts/3174951422/)
 <!-- BLOG-POST-LIST:END -->
