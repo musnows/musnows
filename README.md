@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【leetcode】516.最长回文子序列](https://blog.musnow.top/posts/2092587888/)
+- [【leetcode】1143.最长公共子序列](https://blog.musnow.top/posts/1438517746/)
+- [【leetcode】718. 最长重复子数组](https://blog.musnow.top/posts/1636801435/)
 - [【leetcode】674.最长连续递增序列](https://blog.musnow.top/posts/3365284395/)
 - [【leetcode】300.最长递增子序列](https://blog.musnow.top/posts/3118298969/)
-- [【leetcode】5.最长回文子串](https://blog.musnow.top/posts/1161861455/)
-- [【leetcode】计算器问题汇总](https://blog.musnow.top/posts/1512949254/)
-- [【docker】使用docker-compose的时候如何更新镜像版本](https://blog.musnow.top/posts/2589631185/)
 <!-- BLOG-POST-LIST:END -->
