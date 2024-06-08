@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【leetcode】买卖股票的最佳时机（汇总篇）](https://blog.musnow.top/posts/3174951422/)
+- [【leetcode】1035.不相交的线](https://blog.musnow.top/posts/842071863/)
 - [【leetcode】516.最长回文子序列](https://blog.musnow.top/posts/2092587888/)
 - [【leetcode】1143.最长公共子序列](https://blog.musnow.top/posts/1438517746/)
 - [【leetcode】718. 最长重复子数组](https://blog.musnow.top/posts/1636801435/)
-- [【leetcode】674.最长连续递增序列](https://blog.musnow.top/posts/3365284395/)
-- [【leetcode】300.最长递增子序列](https://blog.musnow.top/posts/3118298969/)
 <!-- BLOG-POST-LIST:END -->
