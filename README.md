@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【leetcode】583.两个字符串的删除操作](https://blog.musnow.top/posts/1692714843/)
 - [【Linux】升级OpenSSH版本规避远程代码执行漏洞](https://blog.musnow.top/posts/3307105016/)
 - [【docker】使用github action来自动发布项目到dockerhub](https://blog.musnow.top/posts/92024430/)
 - [【win】解决windows打游戏卡输入法的问题](https://blog.musnow.top/posts/104528985/)
 - [【Python】使用py脚本按序号重命名md文档](https://blog.musnow.top/posts/2939398257/)
-- [【win】如何在微软官网下载windows10的iso镜像](https://blog.musnow.top/posts/2052482894/)
 <!-- BLOG-POST-LIST:END -->
