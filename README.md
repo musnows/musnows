@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【思源笔记】思源笔记配置S3同步](https://blog.musnow.top/posts/1277165852/)
 - [【leetcode】647.回文子串](https://blog.musnow.top/posts/3816992778/)
 - [【leetcode】72.编辑距离问题](https://blog.musnow.top/posts/3809163346/)
 - [【leetcode】583.两个字符串的删除操作](https://blog.musnow.top/posts/1692714843/)
 - [【Linux】升级OpenSSH版本规避远程代码执行漏洞](https://blog.musnow.top/posts/3307105016/)
-- [【docker】使用github action来自动发布项目到dockerhub](https://blog.musnow.top/posts/92024430/)
 <!-- BLOG-POST-LIST:END -->
