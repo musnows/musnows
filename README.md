@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【算法】单调栈](https://blog.musnow.top/posts/1452956128/)
+- [【win】windows开启特定端口防火墙](https://blog.musnow.top/posts/2580738879/)
 - [【Docker】威联通QNAP部署思源笔记](https://blog.musnow.top/posts/3021867507/)
 - [【Docker】以思源笔记为例，谈谈什么是端到端加密](https://blog.musnow.top/posts/1936212186/)
 - [【C语言】字符串 | 回顾C语言005](https://blog.musnow.top/posts/321211845/)
-- [【C语言】何为数组？| 回顾C语言004](https://blog.musnow.top/posts/3142768460/)
-- [【C语言】变量和数据类型 | 回顾C语言003](https://blog.musnow.top/posts/4094051573/)
 <!-- BLOG-POST-LIST:END -->
