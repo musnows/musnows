@@ -33,9 +33,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Hexo】hexo-butterfly主题添加tag标签文章数量上下标](https://blog.musnow.top/posts/3905192158/)
 - [【win】windows部署minio，实现内网S3同步思源](https://blog.musnow.top/posts/2869712310/)
 - [【C++】单元测试覆盖率工具lcov的使用](https://blog.musnow.top/posts/2798538265/)
 - [【leetcode】44.通配符匹配](https://blog.musnow.top/posts/1431516729/)
 - [【leetcode】10.正则表达式匹配](https://blog.musnow.top/posts/266952207/)
-- [【算法】单调栈](https://blog.musnow.top/posts/1452956128/)
 <!-- BLOG-POST-LIST:END -->
