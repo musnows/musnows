@@ -15,20 +15,27 @@
 
 ### Hello!
 
-* 🎑 Studying C/C++ in college, learning Python by myself
-* 😶‍🌫️ I'm sharing my coding notes on [blog](https://blog.musnow.top/?utm_source=github)
-* 📕 在读大学生，主攻C/C++，自学部分Python
-* 🎉 我会在 [博客](https://blog.musnow.top/?utm_source=github) 上分享我的学习笔记
+* 🎑 Studying C/C++ in college, learning Python by myself.
+* 😶‍🌫️ I'm sharing my coding notes on [blog](https://blog.musnow.top/?utm_source=github).
+* 📕 在读大学生，主攻C/C++，自学部分Python。
+* 🎉 我会在 [博客](https://blog.musnow.top/?utm_source=github) 上分享我的学习笔记。
 
+### Languages
+
+[![C](https://img.shields.io/badge/%E2%80%8D-C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://www.open-std.org/jtc1/sc22/wg14/)
+[![C++](https://img.shields.io/badge/%E2%80%8D-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/%E2%80%8D-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+
+[![JSON](https://img.shields.io/badge/%E2%80%8D-JSON-F9A825?style=flat-square&logo=json&logoColor=white)](https://www.json.org/)
+[![XML](https://img.shields.io/badge/X_%E2%80%8D-XML-8BC34A?style=flat-square&logoColor=white)](https://www.w3.org/XML/)
+[![YAML](https://img.shields.io/badge/%E2%80%8D-YAML-CB171E?style=flat-square&&logo=yaml&logoColor=white)](https://yaml.org/)
+[![Markdown](https://img.shields.io/badge/%E2%80%8D-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](https://commonmark.org/)
 
 ### Social Link
 
 <a href="https://blog.musnow.top/"><img src="https://img.shields.io/badge/Hexo-博客-blue" /></a>&emsp;
 <a href="https://blog.csdn.net/muxuen?spm=1010.2135.3001.5343"><img src="https://img.shields.io/badge/CSDN-博客-c32136" /></a>&emsp;
-<a href="https://www.zhihu.com/people/musnows/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
 <a href="https://gitee.com/musnow"><img src="https://img.shields.io/badge/Gitee-学习仓库-red" /></a>&emsp;
-<img src="https://visitor-badge.glitch.me/badge?page_id=musnows">
-
 
 ### Blog
 
