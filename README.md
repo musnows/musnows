@@ -40,9 +40,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Linux】如何将一个命令要求的输入通过管道传递？](https://blog.musnow.top/posts/2620921861/)
 - [【Python】从peewee切换到tortoise-orm异步orm库](https://blog.musnow.top/posts/1547470773/)
 - [【Hexo】通过hexo-hide-posts插件隐藏文章](https://blog.musnow.top/posts/368684172/)
 - [【思源】思源笔记代码片段收集](https://blog.musnow.top/posts/612440692/)
 - [【博客】记录一次针对本站评论系统的恶意攻击](https://blog.musnow.top/posts/4149071678/)
-- [【Hexo】hexo-butterfly主题添加tag标签文章数量上下标](https://blog.musnow.top/posts/3905192158/)
 <!-- BLOG-POST-LIST:END -->
