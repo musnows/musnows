@@ -40,9 +40,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Docker】安装Answer以及配置html代码片段](https://blog.musnow.top/posts/2922671846/)
 - [【Mac】分享一个mac下自动提交hexo的脚本](https://blog.musnow.top/posts/4252209616/)
 - [【Mac】使用AIDente限制mac最大充电电量](https://blog.musnow.top/posts/3646407477/)
 - [【Linux】如何将一个命令要求的输入通过管道传递？](https://blog.musnow.top/posts/2620921861/)
 - [【Python】从peewee切换到tortoise-orm异步orm库](https://blog.musnow.top/posts/1547470773/)
-- [【Hexo】通过hexo-hide-posts插件隐藏文章](https://blog.musnow.top/posts/368684172/)
 <!-- BLOG-POST-LIST:END -->
