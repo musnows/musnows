@@ -40,9 +40,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [【AI】在思源笔记中使用lmstudio部署的本地ai](https://blog.musnow.top/posts/1891619455/)
-- [【AI】如何安装LM Studio并配置qwen2.5本地ai](https://blog.musnow.top/posts/3021867508/)
+- [【博客】使用GithubAction自动同步obisidian和hexo仓库](https://blog.musnow.top/posts/8608489065/)
+- [【AI】在思源笔记中使用LM Studio部署的本地AI](https://blog.musnow.top/posts/1891619455/)
+- [【AI】如何安装LM Studio并配置qwen2.5本地AI](https://blog.musnow.top/posts/3021867508/)
 - [【Docker】安装Answer以及配置html代码片段](https://blog.musnow.top/posts/2922671846/)
 - [【Mac】分享一个mac下自动提交hexo的脚本](https://blog.musnow.top/posts/4252209616/)
-- [【Mac】使用AIDente限制mac最大充电电量](https://blog.musnow.top/posts/3646407477/)
 <!-- BLOG-POST-LIST:END -->
