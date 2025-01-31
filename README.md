@@ -40,9 +40,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Docker】dockerfile识别当前构建的镜像平台](https://blog.musnow.top/posts/8484489314/)
+- [【Linux】opencv在arm64上提示找不到libjasper-dev](https://blog.musnow.top/posts/4284761477/)
+- [【Docker】docker使用buildx同时构建多平台镜像](https://blog.musnow.top/posts/7885829874/)
 - [【博客】使用GithubAction自动同步obisidian和hexo仓库](https://blog.musnow.top/posts/8608489065/)
 - [【AI】在思源笔记中使用LM Studio部署的本地AI](https://blog.musnow.top/posts/1891619455/)
-- [【AI】如何安装LM Studio并配置qwen2.5本地AI](https://blog.musnow.top/posts/3021867508/)
-- [【Docker】安装Answer以及配置html代码片段](https://blog.musnow.top/posts/2922671846/)
-- [【Mac】分享一个mac下自动提交hexo的脚本](https://blog.musnow.top/posts/4252209616/)
 <!-- BLOG-POST-LIST:END -->
