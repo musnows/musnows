@@ -40,9 +40,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【SLAM】于AutoDL云上GPU运行GCNv2_SLAM的记录](https://blog.musnow.top/posts/1071165018/)
 - [【SLAM】于ubuntu18.04上纯CPU运行GCNv2_SLAM的记录（ARM64/AMD64）](https://blog.musnow.top/posts/1589125738/)
 - [【Docker】dockerfile识别当前构建的镜像平台](https://blog.musnow.top/posts/8484489314/)
 - [【Linux】opencv在arm64上提示找不到libjasper-dev](https://blog.musnow.top/posts/4284761477/)
 - [【Docker】docker使用buildx同时构建多平台镜像](https://blog.musnow.top/posts/7885829874/)
-- [【博客】使用GithubAction自动同步obisidian和hexo仓库](https://blog.musnow.top/posts/8608489065/)
 <!-- BLOG-POST-LIST:END -->
