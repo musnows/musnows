@@ -42,7 +42,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [【Hexo】hexo-butterfly主题添加影评书评页面](https://blog.musnow.top/posts/8855455861/)
 - [【SLAM】在 ubuntu 18.04 arm 中以ROS环境编译与运行ORB_SLAM3](https://blog.musnow.top/posts/5090585017/)
-- [【Linux】在 ubuntu 18.04 arm 容器中安装ROS环境](https://blog.musnow.top/posts/3771271576/)
+- [【SLAM】在 ubuntu 18.04 arm 容器中安装ROS环境](https://blog.musnow.top/posts/3771271576/)
 - [【Linux】解决使用apt时“unable to initialize frontend: Dialog”的警告](https://blog.musnow.top/posts/4031478666/)
 - [【SLAM】在本地虚拟机和AutoDL云端环境以TUM-RGBD数据集运行ORB_SLAM3](https://blog.musnow.top/posts/7873538113/)
 <!-- BLOG-POST-LIST:END -->
