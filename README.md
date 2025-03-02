@@ -40,9 +40,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【SLAM】ubuntu 18.04 下 OpenCV 3.2.0 的 opencv_example 运行闪退](https://blog.musnow.top/posts/7683466939/)
+- [【SLAM】ubuntu 18.04 编译安装 OpenCV 3.2.0 时出现哈希错误](https://blog.musnow.top/posts/8846864150/)
 - [【Linux】ubuntu 22.04 通过 apt 安装 python2](https://blog.musnow.top/posts/3862916255/)
 - [【Hexo】hexo-butterfly主题添加影评书评页面](https://blog.musnow.top/posts/8855455861/)
 - [【SLAM】在 ubuntu 18.04 arm 中以ROS环境编译与运行ORB_SLAM3](https://blog.musnow.top/posts/5090585017/)
-- [【SLAM】在 ubuntu 18.04 arm 容器中安装ROS环境](https://blog.musnow.top/posts/3771271576/)
-- [【Linux】解决使用apt时“unable to initialize frontend: Dialog”的警告](https://blog.musnow.top/posts/4031478666/)
 <!-- BLOG-POST-LIST:END -->
