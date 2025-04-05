@@ -40,9 +40,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【SLAM】ubuntu 18.04 安装 RealSense D435 相机驱动（ARM64/AMD64）](https://blog.musnow.top/posts/9107049817/)
+- [【SLAM】将录制的rosbag视频导出成图片序列](https://blog.musnow.top/posts/1391481152/)
 - [【latex】使用natbib+gbt7714包时如何不显示参考文献DOI号](https://blog.musnow.top/posts/1728805040/)
 - [【SLAM】ubuntu 18.04 下 OpenCV 3.2.0 的 opencv_example 运行闪退](https://blog.musnow.top/posts/7683466939/)
 - [【SLAM】ubuntu 18.04 编译安装 OpenCV 3.2.0 时出现哈希错误](https://blog.musnow.top/posts/8846864150/)
-- [【Linux】ubuntu 22.04 通过 apt 安装 python2](https://blog.musnow.top/posts/3862916255/)
-- [【Hexo】hexo-butterfly主题添加影评书评页面](https://blog.musnow.top/posts/8855455861/)
 <!-- BLOG-POST-LIST:END -->
