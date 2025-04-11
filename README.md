@@ -40,9 +40,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【图床】Picgo/Piclist图片上传之前转webp（pic2webp插件）](https://blog.musnow.top/posts/5825720428/)
 - [【SLAM】使用ROS的camera_calibration工具标定D435相机](https://blog.musnow.top/posts/9762190903/)
 - [【SLAM】在ORB_SLAM2的ROS模式下使用RealSense D435相机](https://blog.musnow.top/posts/9149643829/)
 - [【SLAM】使用realsense-viewer对Realsense D435进行自校准](https://blog.musnow.top/posts/8572288919/)
 - [【SLAM】解决ORB_SLAM2运行时出现的&quot;maybe forgot to call initializeOptimization&lpar;&rpar;&quot;警告](https://blog.musnow.top/posts/2588231435/)
-- [【SLAM】ubuntu 18.04 安装 RealSense D435 相机驱动（ARM64/AMD64）](https://blog.musnow.top/posts/9107049817/)
 <!-- BLOG-POST-LIST:END -->
