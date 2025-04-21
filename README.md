@@ -40,9 +40,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [【MCP】一文解析：详细了解MCP协议，和function call的区别何在？](https://blog.musnow.top/posts/2831928244/)
+- [【MCP】了解远程MCP调用背后使用的SSE协议](https://blog.musnow.top/posts/2725694758/)
+- [【MCP】详细了解MCP协议：和function call的区别何在？如何使用MCP？](https://blog.musnow.top/posts/2831928244/)
 - [【Python】使用uv管理python虚拟环境](https://blog.musnow.top/posts/4192678800/)
 - [【图床】Picgo/Piclist图片上传之前转webp（pic2webp插件）](https://blog.musnow.top/posts/5825720428/)
 - [【SLAM】使用ROS的camera_calibration工具标定D435相机](https://blog.musnow.top/posts/9762190903/)
-- [【SLAM】在ORB_SLAM2的ROS模式下使用RealSense D435相机](https://blog.musnow.top/posts/9149643829/)
 <!-- BLOG-POST-LIST:END -->
