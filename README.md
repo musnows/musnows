@@ -1,7 +1,7 @@
 <div align="center">
   <!-- 动态打字效果 -->
-  <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=printf(%22Hello%2C%20World!%22);慕雪祝您生活愉快!&center=true&size=26" alt="Typing SVG" />
+  <a href="https://blog.musnow.top/">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E6%85%95%E9%9B%AA%E7%A5%9D%E6%82%A8%E7%94%9F%E6%B4%BB%E6%84%89%E5%BF%AB;Hello+world!" alt="Typing SVG" /></a>
   </a></br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=musnows">
 </div>
