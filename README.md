@@ -40,9 +40,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【SLAM】在ROS下发布ORB_SLAM2的位姿（RGB-D）](https://blog.musnow.top/posts/1101664024/)
 - [【SLAM】使用evo工具来绘制ORB_SLAM2轨迹图，评估ATE\RPE指标](https://blog.musnow.top/posts/2657887526/)
 - [【Mac】拒绝parallels toolbox，从我做起！](https://blog.musnow.top/posts/9085567599/)
 - [【Hexo】将代码块中tab替换为空格（修改tab_replace）](https://blog.musnow.top/posts/7827607861/)
 - [【MCP】了解远程MCP调用背后使用的SSE协议](https://blog.musnow.top/posts/2725694758/)
-- [【MCP】详细了解MCP协议：和function call的区别何在？如何使用MCP？](https://blog.musnow.top/posts/2831928244/)
 <!-- BLOG-POST-LIST:END -->
