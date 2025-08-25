@@ -40,9 +40,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【win】关闭windows系统切换输入法的其他快捷键（除了win+空格）](https://blog.musnow.top/posts/9373074383/)
 - [【Nginx】配置nginx拦截非浏览器请求](https://blog.musnow.top/posts/9909449770/)
 - [【JAVA】SDKMAN环境管理工具](https://blog.musnow.top/posts/4576584980/)
 - [【SLAM】在ROS下发布ORB_SLAM2的位姿（RGB-D）](https://blog.musnow.top/posts/1101664024/)
 - [【SLAM】使用evo工具来绘制ORB_SLAM2轨迹图，评估ATE\RPE指标](https://blog.musnow.top/posts/2657887526/)
-- [【Mac】拒绝parallels toolbox，从我做起！](https://blog.musnow.top/posts/9085567599/)
 <!-- BLOG-POST-LIST:END -->
