@@ -40,9 +40,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Agent】AI Agent智能体开发专题引言](https://blog.musnow.top/posts/6796656750/)
 - [【AI】AI对26届计算机校招的影响](https://blog.musnow.top/posts/4710483697/)
 - [【win】关闭windows系统切换输入法的其他快捷键（除了win+空格）](https://blog.musnow.top/posts/9373074383/)
 - [【Nginx】配置nginx拦截非浏览器请求](https://blog.musnow.top/posts/9909449770/)
 - [【JAVA】SDKMAN环境管理工具](https://blog.musnow.top/posts/4576584980/)
-- [【SLAM】在ROS下发布ORB_SLAM2的位姿（RGB-D）](https://blog.musnow.top/posts/1101664024/)
 <!-- BLOG-POST-LIST:END -->
