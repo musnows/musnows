@@ -40,9 +40,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Hexo】使用hexo-markdown-it实现渲染markdown脚注能力](https://blog.musnow.top/posts/8330674478/)
 - [【Agent.03】带你学会写一个基础的Prompt](https://blog.musnow.top/posts/5745961587/)
 - [【Agent.02】市面上常见的大模型有哪些？](https://blog.musnow.top/posts/6151856853/)
 - [【Agent.01】AI Agent智能体开发专题引言](https://blog.musnow.top/posts/6796656750/)
 - [【AI】AI对26届计算机校招的影响](https://blog.musnow.top/posts/4710483697/)
-- [【win】关闭windows系统切换输入法的其他快捷键（除了win+空格）](https://blog.musnow.top/posts/9373074383/)
 <!-- BLOG-POST-LIST:END -->
