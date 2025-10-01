@@ -40,9 +40,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Agent.04】AI时代的hello world：调用OpenAI接口，与大模型交互](https://blog.musnow.top/posts/4044218607/)
 - [【AI】配置claude-code-router转发Claude Code请求至OpenAI API格式](https://blog.musnow.top/posts/4200815612/)
 - [【AI】下载安装claude-code，并配置免费的LongCat大模型](https://blog.musnow.top/posts/5046572767/)
 - [【Hexo】使用hexo-markdown-it实现渲染markdown脚注能力](https://blog.musnow.top/posts/8330674478/)
 - [【Agent.03】带你学会写一个基础的Prompt](https://blog.musnow.top/posts/5745961587/)
-- [【Agent.02】市面上常见的大模型有哪些？](https://blog.musnow.top/posts/6151856853/)
 <!-- BLOG-POST-LIST:END -->
