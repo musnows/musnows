@@ -40,9 +40,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Hexo】Butterfly主题站点运行时间实现n年m天格式显示](https://blog.musnow.top/posts/7397014466/)
+- [【Hexo】为自己的博客站点加上离线的AI摘要](https://blog.musnow.top/posts/5899307553/)
 - [【Agent.04】AI时代的hello world：调用OpenAI接口，与大模型交互](https://blog.musnow.top/posts/4044218607/)
 - [【AI】配置claude-code-router转发Claude Code请求至OpenAI API格式](https://blog.musnow.top/posts/4200815612/)
 - [【AI】下载安装claude-code，并配置免费的LongCat大模型](https://blog.musnow.top/posts/5046572767/)
-- [【Hexo】使用hexo-markdown-it实现渲染markdown脚注能力](https://blog.musnow.top/posts/8330674478/)
-- [【Agent.03】带你学会写一个基础的Prompt](https://blog.musnow.top/posts/5745961587/)
 <!-- BLOG-POST-LIST:END -->
