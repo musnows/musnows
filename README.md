@@ -40,9 +40,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Node】实现一个claude-code模型切换器](https://blog.musnow.top/posts/2256709548/)
 - [【Hexo】Butterfly主题站点运行时间实现n年m天格式显示](https://blog.musnow.top/posts/7397014466/)
 - [【Hexo】为自己的博客站点加上离线的AI摘要](https://blog.musnow.top/posts/5899307553/)
 - [【Agent.04】AI时代的hello world：调用OpenAI接口，与大模型交互](https://blog.musnow.top/posts/4044218607/)
 - [【AI】配置claude-code-router转发Claude Code请求至OpenAI API格式](https://blog.musnow.top/posts/4200815612/)
-- [【AI】下载安装claude-code，并配置免费的LongCat大模型](https://blog.musnow.top/posts/5046572767/)
 <!-- BLOG-POST-LIST:END -->
