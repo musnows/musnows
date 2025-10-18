@@ -40,9 +40,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【MCP】无敌了，chrome-devtools-mcp杀死比赛！](https://blog.musnow.top/posts/8869483389/)
 - [【随笔】本地部署AI的现状和AI本地部署的价值](https://blog.musnow.top/posts/7079918377/)
 - [【Node】实现一个claude-code模型切换器](https://blog.musnow.top/posts/2256709548/)
 - [【Hexo】Butterfly主题站点运行时间实现n年m天格式显示](https://blog.musnow.top/posts/7397014466/)
 - [【Hexo】为自己的博客站点加上离线的AI摘要](https://blog.musnow.top/posts/5899307553/)
-- [【Agent.04】AI时代的hello world：调用OpenAI接口，与大模型交互](https://blog.musnow.top/posts/4044218607/)
 <!-- BLOG-POST-LIST:END -->
