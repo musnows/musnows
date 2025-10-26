@@ -40,9 +40,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Agent.07】什么是Agent？从Chat到ReAct的AI进化之路](https://blog.musnow.top/posts/1697221744/)
+- [【Agent.06】使用openai sdk实现多轮对话](https://blog.musnow.top/posts/2999693839/)
 - [【Agent.05】OpenAI接口Function Calling工具调用详解](https://blog.musnow.top/posts/5189745838/)
 - [【MCP】无敌了，chrome-devtools-mcp杀死比赛！](https://blog.musnow.top/posts/8869483389/)
 - [【随笔】本地部署AI的现状和AI本地部署的价值](https://blog.musnow.top/posts/7079918377/)
-- [【Node】实现一个claude-code模型切换器](https://blog.musnow.top/posts/2256709548/)
-- [【Hexo】Butterfly主题站点运行时间实现n年m天格式显示](https://blog.musnow.top/posts/7397014466/)
 <!-- BLOG-POST-LIST:END -->
