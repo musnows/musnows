@@ -40,9 +40,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【ConfyUI】在MacBook上用ConfyUI部署阿里Z-Image最新开源模型](https://blog.musnow.top/posts/5139052950/)
 - [【AI】AI老是喜欢写总结文档，咋办？](https://blog.musnow.top/posts/2379700856/)
 - [【Agent.08】LangChain的第一个Demo：从零开始构建Agent](https://blog.musnow.top/posts/8376761897/)
 - [【Mac】MacBookPro无法连接第2个外接显示器问题解决](https://blog.musnow.top/posts/7601095152/)
 - [【Mac】为Mac配置基本开发环境](https://blog.musnow.top/posts/5918542853/)
-- [【Agent.07】什么是Agent？从Chat到ReAct的AI进化之路](https://blog.musnow.top/posts/1697221744/)
 <!-- BLOG-POST-LIST:END -->
