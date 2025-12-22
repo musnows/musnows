@@ -40,9 +40,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Mac】解决MacBook WiFi玄学问题“连上WiFI但是没网络”的折腾经历](https://blog.musnow.top/posts/2013771800/)
 - [【AI】智谱AutoGLM部署教程：AutoDL云服务器+本地PhoneAgent配置](https://blog.musnow.top/posts/3465160585/)
 - [【Agent.10】OpenAI接口输出格式约束（response_format）](https://blog.musnow.top/posts/7980046278/)
 - [【Agent.09】LangChain里面使用MCP工具](https://blog.musnow.top/posts/1111260513/)
 - [【Hexo】简单记录如何在服务器上部署hexo-friend-article](https://blog.musnow.top/posts/3436193392/)
-- [【ConfyUI】在MacBook上用ConfyUI部署阿里Z-Image最新开源模型](https://blog.musnow.top/posts/5139052950/)
 <!-- BLOG-POST-LIST:END -->
