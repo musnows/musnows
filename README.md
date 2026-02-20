@@ -15,10 +15,12 @@
 
 ### Hello!
 
-* 🎑 Studying C/C++ in college, learning Python by myself.
-* 😶‍🌫️ I'm sharing my coding notes on [blog](https://blog.musnow.top/?utm_source=github).
-* 📕 在读大学生，主攻C/C++，自学部分Python。
-* 🎉 我会在 [博客](https://blog.musnow.top/?utm_source=github) 上分享我的学习笔记。
+* 🎯 Fresh grad just stepped into the workplace, starting my career journey.
+* 😶‍🌫️ Fighting side by side with AI every day.
+* 📕 Sharing thoughts & growth on [blog](https://blog.musnow.top/?utm_source=github).
+* 🎉 刚入职的校招新人，正和 AI 并肩作战。
+* 📚 日常思考与成长记录在 [博客](https://blog.musnow.top/?utm_source=github)。
+
 
 ### Languages
 
