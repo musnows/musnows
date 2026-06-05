@@ -42,9 +42,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Mac】修改Mac的hostname，告别局域网IP乱入](https://blog.musnow.top/posts/8278368957/)
 - [【随笔】招商银行visa金卡申请和绑定海外谷歌账户支付](https://blog.musnow.top/posts/2548094348/)
 - [【工具】用AI随手写博客](https://blog.musnow.top/posts/4816793386/)
 - [【测开】adb shell am start 启动跳链时 &amp; 符号被截断的解决方法](https://blog.musnow.top/posts/4494568789/)
 - [【Appium】安装 xcuitest 驱动时 npm install 报错的解决方法](https://blog.musnow.top/posts/6001406889/)
-- [【2026】新年快乐！](https://blog.musnow.top/posts/5235621469/)
 <!-- BLOG-POST-LIST:END -->
