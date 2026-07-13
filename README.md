@@ -42,9 +42,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【AI】给Codex加上rm防误删Hook](https://blog.musnow.top/posts/1314859114/)
 - [【AI】渐进式披露能省Token，但要管住Agent Loop](https://blog.musnow.top/posts/9907522705/)
 - [【Mac】修改Mac的hostname，告别局域网IP乱入](https://blog.musnow.top/posts/8278368957/)
 - [【随笔】招商银行visa金卡申请和绑定海外谷歌账户支付](https://blog.musnow.top/posts/2548094348/)
 - [【工具】用AI随手写博客](https://blog.musnow.top/posts/4816793386/)
-- [【测开】adb shell am start 启动跳链时 &amp; 符号被截断的解决方法](https://blog.musnow.top/posts/4494568789/)
 <!-- BLOG-POST-LIST:END -->
