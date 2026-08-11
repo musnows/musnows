@@ -42,9 +42,9 @@
 ### Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [【Linux】腾讯云服务器被攻击后，我是怎么排查挖矿木马的](https://blog.musnow.top/posts/5822093187/)
 - [【Agent】Multica使用心得](https://blog.musnow.top/posts/2410287049/)
 - [【AI】叙界S3备份需求，多Agent赛马](https://blog.musnow.top/posts/1731962380/)
 - [【Nginx】使用OpenResty Lua拦截Artalk广告昵称](https://blog.musnow.top/posts/3586282243/)
 - [【AI】给Codex加上rm防误删Hook](https://blog.musnow.top/posts/1314859114/)
-- [【AI】渐进式披露能省Token，但要管住Agent Loop](https://blog.musnow.top/posts/9907522705/)
 <!-- BLOG-POST-LIST:END -->
